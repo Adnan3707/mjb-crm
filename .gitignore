@@ -1,0 +1,5 @@
+*node_modules/*
+/logs
+/*.lock
+/yarn-error.log
+/package-lock.json
